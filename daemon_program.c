@@ -7,6 +7,7 @@
 #include <dirent.h>
 #include <sys/stat.h>
 #include <time.h>
+#include <ctype.h>
 
 #define DEFAULT_SCAN_INTERVAL 60
 
